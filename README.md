@@ -53,3 +53,5 @@ This project is a web-based implementation of the Battleship game using **HTML, 
 - Persistent storage uses JSON instead of a database.
 - Multiplayer is local only (player vs computer).
 - Cannot see which rotation the ship is on before placing
+## DEMO
+https://www.loom.com/share/c242467d77b04dd79c46be9d19ceb474
