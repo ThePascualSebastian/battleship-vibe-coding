@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .boards {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+  }
+  
+  .board {
+    display: grid;
+    grid-template-columns: 40px repeat(10, 35px);
+    grid-template-rows: 40px repeat(10, 35px);
+    gap: 2px;
+  }
+  
+  .label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+  }
+  
+  .cell {
+    background: #a7c7e7;
+    cursor: pointer;
+  }
+  
+  .ship {
+    background: gray;
+  }
+  
+  .hit {
+    background: red;
+  }
+  
+  .miss {
+    background: green;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #controls {
+    margin-bottom: 10px;
+  }
+  
+  #info {
+    margin-bottom: 20px;
+  }
+  

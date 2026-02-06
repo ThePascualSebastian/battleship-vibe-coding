@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Battleship</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Battleship</h1>
+
+<div id="controls">
+  <button id="rotateBtn">Rotate Ship</button>
+  <span id="status"></span>
+</div>
+
+<div id="info">
+  <div>Player Score: <span id="playerScore">0</span></div>
+  <div>Computer Score: <span id="computerScore">0</span></div>
+  <div>Timer: <span id="timer">180</span>s</div>
+</div>
+
+<div class="boards">
+  <div>
+    <h2>Your Board</h2>
+    <div id="playerBoard" class="board"></div>
+  </div>
+
+  <div>
+    <h2>Computer Board</h2>
+    <div id="computerBoard" class="board"></div>
+  </div>
+</div>
+
+<div id="endScreen" class="hidden">
+  <h2 id="winnerText"></h2>
+  <button id="restart">Restart Game</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

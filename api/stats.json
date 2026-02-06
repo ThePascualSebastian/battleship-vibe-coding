@@ -1,0 +1,83 @@
+[
+    {
+        "timestamp": "2026-02-06 01:57:32",
+        "playerScore": 0,
+        "computerScore": 0,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0,
+        "playerTurns": 1,
+        "computerTurns": 0
+    },
+    {
+        "timestamp": "2026-02-06 01:58:07",
+        "playerScore": 0,
+        "computerScore": 0,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0,
+        "playerTurns": 1,
+        "computerTurns": 0
+    },
+    {
+        "timestamp": "2026-02-06 01:58:08",
+        "playerScore": 0,
+        "computerScore": 1,
+        "playerAccuracy": 0,
+        "computerAccuracy": 1,
+        "playerTurns": 1,
+        "computerTurns": 1
+    },
+    {
+        "timestamp": "2026-02-06 01:58:08",
+        "playerScore": 0,
+        "computerScore": 1,
+        "playerAccuracy": 0,
+        "computerAccuracy": 1,
+        "playerTurns": 2,
+        "computerTurns": 1
+    },
+    {
+        "timestamp": "2026-02-06 01:58:09",
+        "playerScore": 0,
+        "computerScore": 1,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0.5,
+        "playerTurns": 2,
+        "computerTurns": 2
+    },
+    {
+        "timestamp": "2026-02-06 01:58:10",
+        "playerScore": 0,
+        "computerScore": 1,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0.5,
+        "playerTurns": 3,
+        "computerTurns": 2
+    },
+    {
+        "timestamp": "2026-02-06 01:58:10",
+        "playerScore": 0,
+        "computerScore": 1,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0.333000000000000018207657603852567262947559356689453125,
+        "playerTurns": 3,
+        "computerTurns": 3
+    },
+    {
+        "timestamp": "2026-02-06 01:58:11",
+        "playerScore": 0,
+        "computerScore": 1,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0.333000000000000018207657603852567262947559356689453125,
+        "playerTurns": 4,
+        "computerTurns": 3
+    },
+    {
+        "timestamp": "2026-02-06 01:58:11",
+        "playerScore": 0,
+        "computerScore": 2,
+        "playerAccuracy": 0,
+        "computerAccuracy": 0.5,
+        "playerTurns": 4,
+        "computerTurns": 4
+    }
+]
